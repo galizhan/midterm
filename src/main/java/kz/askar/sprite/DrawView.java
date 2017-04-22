@@ -8,9 +8,7 @@ import android.graphics.Paint;
 import android.util.Log;
 import android.view.SurfaceHolder;
 
-/**
- * Created by Bimurat Mukhtar on 22.04.rectMultiplier17.
- */
+
 
 public class DrawView extends android.view.SurfaceView
         implements SurfaceHolder.Callback{
